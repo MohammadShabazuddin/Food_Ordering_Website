@@ -22,4 +22,5 @@ It is a comprehensive food delivery application built with React JS, showcasing 
 - Use cookies for login into the account.
 
 
- 
+ <img width="818" alt="image" src="https://github.com/MohammadShabazuddin/Food_Ordering_Website/assets/44221567/60f4d4f3-c04e-4bf8-ae82-56a24e72031f">
+
