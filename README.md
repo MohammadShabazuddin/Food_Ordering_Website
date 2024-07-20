@@ -10,7 +10,7 @@ It is a comprehensive food delivery application built with React JS, showcasing 
 - Stripe API for payment processing
 
 ## Features :
-- The project has two interface i.e. an user interface and an admin interface.
+- The project has two interface i.e. an <a href="https://food-ordering-website-frontend-ta2c.onrender.com">User interface</a> and an <a href="https://food-ordering-website-admin-tfg3.onrender.com">Admin interface</a>.
 - At user-end he/she can ony order food and set the quantity as per there requirment.
 - At user-end he/she can also view there profile details and order history.
 - At user-end he/she can change their basic contact details and as well as there password. 
